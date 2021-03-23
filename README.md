@@ -8,8 +8,8 @@
 
 ### Design Requirements
 
-The application should include User Management, Course Management and Enrollment Management. 
-ClicK The Link For more detail: [LINK](https://github.com/sheisol310/qcfirst/blob/2c1afc2b6a0ae111e1788fbb0272e71275275809/CS%20355_%20Course%20Enrollment%20Application.pdf)
+The application should include User Management, Course Management and Enrollment Management. </br>
+Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blob/2c1afc2b6a0ae111e1788fbb0272e71275275809/CS%20355_%20Course%20Enrollment%20Application.pdf)
 
 ### Site-Map
 <img src="https://github.com/sheisol310/qcfirst/blob/4ed2508cc1d8aface0eac2f31f114a271ece767f/image%20for%20readMe/sitemap.PNG" width=80%>
