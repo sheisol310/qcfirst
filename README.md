@@ -18,17 +18,14 @@ For more detail: link.............
 ##### Different Displays. Destop, Tablet, Mobile (From Left to Right)
 
 #### Homepage
-
 <p align="center">
-  <img src="images/detection result.gif", width="45%">
-  <img src="images/mask result .gif", width="45%">
-  <br>
+  <img src="image for readMe/D-homepage.PNG", width="30%">
+  <img src="image for readMe/T-homepage.PNG", width="30%">
+  <img src="image for readMe/M-homepage.PNG", width="30%">
 </p>
-![Form](https://g)
 
 #### Sign-up Page
 
-![Dasboard UI Sce](https://raw.githubu0PM.png)
 
 #### Log-in Page
 
