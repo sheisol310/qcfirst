@@ -1,6 +1,6 @@
-![Banner Image](https://github.com/sheisol310/qcfirst/blob/4ed2508cc1d8aface0eac2f31f114a271ece767f/image%20for%20readMe/Queens%20college.png | width=100) 
+<img src="https://github.com/sheisol310/qcfirst/blob/4ed2508cc1d8aface0eac2f31f114a271ece767f/image%20for%20readMe/Queens%20college.png" width=50%>
 
-# Course Enrollment Application
+# CS355 Project－Course Enrollment Application
 
 ## This application is desgined for facutlies and students
 
@@ -12,6 +12,7 @@ The application should include User Management, Course Management and Enrollment
 For more detail: link.............
 
 ### Site-Map
+<img src="https://github.com/sheisol310/qcfirst/blob/4ed2508cc1d8aface0eac2f31f114a271ece767f/image%20for%20readMe/sitemap.PNG" width=50%>
 
 ### Wire-Framing
 ##### Different Displays. Destop, Tablet, Mobile (From Left to Right)
