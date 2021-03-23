@@ -11,13 +11,17 @@
 The application should include User Management, Course Management and Enrollment Management. 
 For more detail: link.............
 
-#### Site-Map
+### Site-Map
 
-#### Wire-Framing
+### Wire-Framing
 
 #### Homepage
 ##### Different Displays. Destop, Tablet, Mobile (From Left to Right)
-
+<p align="center">
+  <img src="images/detection result.gif", width="45%">
+  <img src="images/mask result .gif", width="45%">
+  <br>
+</p>
 ![Form](https://g)
 
 #### Sign-up Page
