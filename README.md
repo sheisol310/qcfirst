@@ -26,7 +26,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 	- [Page of Course Set-Up](#Page-of-Course-Set-Up)
 
 #### Deliverable 2
-- [HomePage](#https://sheisol310.github.io/qcFirst-Web/index.html)
+- [HomePage](https://sheisol310.github.io/qcFirst-Web/index.html)
 - [Wire-Framing](#Wire-Framing)
 	- [Homepage](#Homepage)
 	- [Sign-up Page](#Sign-up-Page)
