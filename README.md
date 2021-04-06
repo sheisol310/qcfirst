@@ -27,7 +27,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 
 #### Deliverable 2
 ##### Click Links To Visit Outside Websites
-- [Website GitHub] (https://github.com/sheisol310/qcFirst-Web)
+- [Website's Github](https://github.com/sheisol310/qcFirst-Web)
 - [HomePage](https://sheisol310.github.io/qcFirst-Web/index.html)
 - [login&signup page](https://sheisol310.github.io/qcFirst-Web/login&signup%20page/qcFirstLogin&SignupPage.html)
 - [student's page](https://sheisol310.github.io/qcFirst-Web/student's%20page/student's%20page.html)
