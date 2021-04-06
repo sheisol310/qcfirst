@@ -27,15 +27,14 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 
 #### Deliverable 2
 - [HomePage](https://sheisol310.github.io/qcFirst-Web/index.html)
-- [login&signup page](https://sheisol310.github.io/qcFirst-Web/index.html)
-- [student's page](https://sheisol310.github.io/qcFirst-Web/index.html)
-	- [enroll management](https://sheisol310.github.io/qcFirst-Web/index.html)
-	- [shopping cart](https://sheisol310.github.io/qcFirst-Web/index.html)
-	- [course search](https://sheisol310.github.io/qcFirst-Web/index.html)
-	
-- [instructor's page](https://sheisol310.github.io/qcFirst-Web/index.html)
-	- [course management](https://sheisol310.github.io/qcFirst-Web/index.html)
-	- [courseSetUp](https://sheisol310.github.io/qcFirst-Web/index.html)
+- [login&signup page](https://sheisol310.github.io/qcFirst-Web/login&signup%20page/qcFirstLogin&SignupPage.html)
+- [student's page](https://sheisol310.github.io/qcFirst-Web/student's%20page/student's%20page.html)
+	- [enroll management](https://sheisol310.github.io/qcFirst-Web/enroll%20management/enrollment.html)
+	- [shopping cart](https://sheisol310.github.io/qcFirst-Web/shopping%20cart/shoppingCart.html)
+	- [course search](https://sheisol310.github.io/qcFirst-Web/course%20search/courseSearch.html)	
+- [instructor's page](https://sheisol310.github.io/qcFirst-Web/instructor's%20page/instructor's%20page.html)
+	- [course management](https://sheisol310.github.io/qcFirst-Web/course%20management/course%20management.html)
+	- [courseSetUp](https://sheisol310.github.io/qcFirst-Web/courseSetUp/courseSetUp.html)
 
 ### Site-Map
 <img src="image for readMe/sitemap.png" width=80%>
