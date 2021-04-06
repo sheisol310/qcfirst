@@ -80,13 +80,6 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
   <img src="image for readMe/M-course managemnet.PNG", width="28%">
 </p>
 
-#### Page of Current Course
-<p align="center">
-  <img src="image for readMe/D-current.PNG", width="32%">
-  <img src="image for readMe/T-current .PNG", width="33%">
-  <img src="image for readMe/M-current.PNG", width="28%">
-</p>
-
 #### Page of Course Set-Up
 <p align="center">
   <img src="image for readMe/D-course setup.PNG", width="36%">
