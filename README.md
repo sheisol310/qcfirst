@@ -16,8 +16,8 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 	- [Homepage](#Homepage)
 	- [Sign-up Page](#Sign-up-Page)
 	- [Log-in Page](#Log-in-Page)
-	- [Instructor's Page](#Instructor's-Page)
-	- [Student's Page](#Student's-Page)
+	- [Instructor Page](#Instructor-Page)
+	- [Student Page](#Student-Page)
 	- [Page of Enrollment Management](#Page-of-Enrollment-Management)
 	- [Page of Course Search](#Page-of-Course-Search)
 	- [Page of Shopping Cart](#Page-of-Shopping-Cart)
@@ -54,14 +54,14 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
   <img src="image for readMe/M-login.PNG", width="26%">
 </p>
 
-#### Instructor's Page
+#### Instructor Page
 <p align="center">
   <img src="image for readMe/D-instructor.PNG", width="32%">
   <img src="image for readMe/T-instructor's .PNG", width="32%">
   <img src="image for readMe/M-instructor.PNG", width="28%">
 </p>
 
-#### Student's Page
+#### Student Page
 <p align="center">
   <img src="image for readMe/D-student's page.PNG", width="32%">
   <img src="image for readMe/T-student's page.PNG", width="32%">
