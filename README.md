@@ -27,19 +27,15 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 
 #### Deliverable 2
 - [HomePage](https://sheisol310.github.io/qcFirst-Web/index.html)
-- [Wire-Framing](#Wire-Framing)
-	- [Homepage](#Homepage)
-	- [Sign-up Page](#Sign-up-Page)
-	- [Log-in Page](#Log-in-Page)
-	- [Instructor Page](#Instructor-Page)
-	- [Student Page](#Student-Page)
-	- [Page of Enrollment Management](#Page-of-Enrollment-Management)
-	- [Page of Course Search](#Page-of-Course-Search)
-	- [Page of Shopping Cart](#Page-of-Shopping-Cart)
-	- [Page of Course Management](#Page-of-Course-Management)
-	- [Page of Course Set-Up](#Page-of-Course-Set-Up)
-- [Site-Map](#Site-Map)
-
+- [login&signup page](https://sheisol310.github.io/qcFirst-Web/index.html)
+- [student's page](https://sheisol310.github.io/qcFirst-Web/index.html)
+	- [enroll management](https://sheisol310.github.io/qcFirst-Web/index.html)
+	- [shopping cart](https://sheisol310.github.io/qcFirst-Web/index.html)
+	- [course search](https://sheisol310.github.io/qcFirst-Web/index.html)
+	
+- [instructor's page](https://sheisol310.github.io/qcFirst-Web/index.html)
+	- [course management](https://sheisol310.github.io/qcFirst-Web/index.html)
+	- [courseSetUp](https://sheisol310.github.io/qcFirst-Web/index.html)
 
 ### Site-Map
 <img src="image for readMe/sitemap.png" width=80%>
