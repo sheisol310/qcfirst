@@ -12,6 +12,19 @@ The application should include User Management, Course Management and Enrollment
 Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blob/2c1afc2b6a0ae111e1788fbb0272e71275275809/CS%20355_%20Course%20Enrollment%20Application.pdf)
 ### Index
 - [Site-Map](#Site-Map)
+- [Wire-Framing](#Wire-Framing)
+	- [Homepage](#Homepage)
+	- [Sign-up Page](#Sign-up Page)
+	- [Log-in Page](#Log-in Page)
+	- [Instructor's Page](#Instructor's Page)
+	- [Student's Page](#Student's Page)
+	- [Page of Enrollment Management](#Page of Enrollment Management)
+	- [Page of Course Search](#Page of Course Search)
+	- [Page of Shopping Cart](#Page of Shopping Cart)
+	- [Page of Course Management](#Page of Course Management)
+	- [Page of Course Set-Up](#Page of Course Set-Up)
+
+
 
 
 ### Site-Map
