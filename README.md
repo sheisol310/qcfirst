@@ -11,7 +11,7 @@
 The application should include User Management, Course Management and Enrollment Management. </br>
 Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blob/2c1afc2b6a0ae111e1788fbb0272e71275275809/CS%20355_%20Course%20Enrollment%20Application.pdf)
 ### Index
-<p>Click Links To Visit Contents</p>
+##### Click Links To Visit Contents
 #### Deliverable 1
 - [Site-Map](#Site-Map)
 - [Wire-Framing](#Wire-Framing)
@@ -27,7 +27,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 	- [Page of Course Set-Up](#Page-of-Course-Set-Up)
 
 #### Deliverable 2
-<p>Click Links To Visit Outside Websites</p>
+##### Click Links To Visit Outside Websites
 - [HomePage](https://sheisol310.github.io/qcFirst-Web/index.html)
 - [login&signup page](https://sheisol310.github.io/qcFirst-Web/login&signup%20page/qcFirstLogin&SignupPage.html)
 - [student's page](https://sheisol310.github.io/qcFirst-Web/student's%20page/student's%20page.html)
