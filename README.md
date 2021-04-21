@@ -25,7 +25,7 @@ Click the link for more detail: [LINK](https://github.com/sheisol310/qcfirst/blo
 	- [Page of Course Management](#Page-of-Course-Management)
 	- [Page of Course Set-Up](#Page-of-Course-Set-Up)
 
-#### Deliverable 2
+#### Deliverable 2 & Deliverable 3
 ##### Click Links To Visit Outside Websites
 - [Website's Github](https://github.com/sheisol310/qcFirst-Web)
 - [HomePage](https://sheisol310.github.io/qcFirst-Web/index.html)
